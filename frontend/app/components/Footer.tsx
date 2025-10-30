@@ -1,7 +1,7 @@
 const Footer = () => {
 	return (
-		<footer>
-			<p>&copy; The JPN111 Dev Team</p>
+		<footer className="text-center text-sm py-2">
+			<p>&copy; The OSU JPN Dev Team (2025)</p>
 		</footer>
 	);
 };
