@@ -23,7 +23,7 @@ const MainNav = () => {
 									className="block hover:bg-red-400 rounded-sm cursor-pointer duration-150" 
 									href={`/modules/${id}`}
 								>
-									{id}
+									M{id}
 								</Link>
 							</li>
 						))}
